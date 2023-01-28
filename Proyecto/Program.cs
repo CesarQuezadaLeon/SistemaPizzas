@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Proyecto
+{
+    static class Program
+    {
+        /// <summary>
+        /// Punto de entrada principal para la aplicación.
+        /// </summary>
+        /// 
+        public static string CadenaConexion = "Data Source=CR-LEON;Initial Catalog=Proyecto;Integrated Security=True";
+        [STAThread]        
+        static void Main()
+        {
+            
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Proveedores());
+        }
+    }
+}

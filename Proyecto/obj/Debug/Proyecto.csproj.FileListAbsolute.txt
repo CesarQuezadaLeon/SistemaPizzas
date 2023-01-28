@@ -1,0 +1,155 @@
+C:\Users\joss\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\joss\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\joss\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\joss\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+C:\Users\Cesar Leon\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\joss\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\joss\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.DetalleProveevor.resources
+C:\Users\joss\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Vehiculos.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Pagos.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Pedidos.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Vehiculos.resources
+C:\Users\SALA-B\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\SALA-F\Desktop\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\SALA-F\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\SALA-F\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Pagos.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Pedidos.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Vehiculos.resources
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\SALA-D\Desktop\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Clientes.resources
+F:\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+F:\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+F:\Contenedora\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Clientes.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Pagos.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Pedidos.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.Vehiculos.resources
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+F:\Contenedora\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Clientes.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Pagos.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Pedidos.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarEmpleado.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarMateriaPrima.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.EliminarProveedores.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Empleados.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.MateriaPrima.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Principal.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Productos.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Proveedores.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.Vehiculos.resources
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.IntegrationServices.ODataConnectionManager.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Microsoft.SqlServer.IntegrationServices.ODataSrc.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Data.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Web.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Google.Protobuf.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Zstandard.Net.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Ubiety.Dns.Core.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\Renci.SshNet.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\System.Buffers.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\K4os.Compression.LZ4.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\K4os.Hash.xxHash.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\System.Memory.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\System.Numerics.Vectors.dll
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Data.xml
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\bin\Debug\MySql.Web.xml
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.exe.config
+D:\Escuela\Contenedora de proyecto Pizzas\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
